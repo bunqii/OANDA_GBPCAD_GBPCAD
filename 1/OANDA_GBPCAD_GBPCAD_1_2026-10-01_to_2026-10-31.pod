@@ -6,7 +6,7 @@
   "chunk_end": "2026-10-31",
   "parquet_file": "OANDA_GBPCAD_GBPCAD_1_2026-10-01_to_2026-10-31.parquet",
   "data_file": "OANDA_GBPCAD_GBPCAD_1_2026-10-01_to_2026-10-31.parquet",
-  "row_count": 24183,
+  "row_count": 25594,
   "first_candle": {
     "time": 1790812800,
     "Time": "2026-10-01T00:00:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 51
   },
   "last_candle": {
-    "time": 1792989240,
-    "Time": "2026-10-26T04:34:00.000000000Z",
-    "open": 1.87376,
-    "high": 1.87382,
-    "low": 1.87373,
-    "close": 1.87382,
-    "volume": 6
+    "time": 1793077020,
+    "Time": "2026-10-27T04:57:00.000000000Z",
+    "open": 1.86954,
+    "high": 1.86954,
+    "low": 1.8694,
+    "close": 1.86941,
+    "volume": 12
   },
   "csv_file": "OANDA_GBPCAD_GBPCAD_1_2026-10-01_to_2026-10-31.parquet",
-  "csv_row_count": 24183,
+  "csv_row_count": 25594,
   "csv_first_candle": {
     "time": 1790812800,
     "Time": "2026-10-01T00:00:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 51
   },
   "csv_last_candle": {
-    "time": 1792989240,
-    "Time": "2026-10-26T04:34:00.000000000Z",
-    "open": 1.87376,
-    "high": 1.87382,
-    "low": 1.87373,
-    "close": 1.87382,
-    "volume": 6
+    "time": 1793077020,
+    "Time": "2026-10-27T04:57:00.000000000Z",
+    "open": 1.86954,
+    "high": 1.86954,
+    "low": 1.8694,
+    "close": 1.86941,
+    "volume": 12
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-10-26T04:35:30.000000000Z",
-  "generated_at": "2026-10-26T04:35:30.000000000Z",
+  "verified_at": "2026-10-27T04:58:20.000000000Z",
+  "generated_at": "2026-10-27T04:58:20.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-10-23T20:54:00Z",
-        "to": "2026-10-26T04:35:00Z",
+        "from": "2026-10-26T04:29:00Z",
+        "to": "2026-10-27T04:58:00Z",
         "code": 200,
         "msg": "OK"
       }
